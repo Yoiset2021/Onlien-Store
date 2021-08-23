@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "nombre": "Chor",
+      "costo": "20",
+      "departamento": "Ropa",
+      "categoria": "Ropa de hombre",
+      "id": 1
+    },
+    {
+      "nombre": "Chor Adidas",
+      "costo": "30.25",
+      "departamento": "Ropa",
+      "categoria": "Ropa de hombre",
+      "id": 4
+    }
+  ],
+  "departamentos": [
+    {
+      "id": 1,
+      "nombre": "Ropa"
+    },
+    {
+      "id": 2,
+      "nombre": "Zapatos"
+    },
+    {
+      "id": 3,
+      "nombre": "Perfumes"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Ropa de hombre",
+      "departamento": "Ropa"
+    },
+    {
+      "id": 2,
+      "nombre": "Zapato de mujer",
+      "departamento": "Zapatos"
+    },
+    {
+      "id": 3,
+      "nombre": "Ropa de niño",
+      "departamento": "Ropa"
+    },
+    {
+      "id": 4,
+      "nombre": "Perfume de mujer",
+      "departamento": "Perfumes"
+    },
+    {
+      "id": 5,
+      "nombre": "Zapato de hombre",
+      "departamento": "Zapatos"
+    },
+    {
+      "id": 6,
+      "nombre": "Perfume de Hombre",
+      "departamento": "Perfumes"
+    }
+  ]
+}
